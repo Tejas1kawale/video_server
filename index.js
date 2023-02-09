@@ -5,7 +5,7 @@ import cors from 'cors';
 import { readdir } from 'node:fs/promises';
 import bodyParser from 'body-parser';
 const hostname='0.0.0.0';
-
+const port=process.env.PORT || 3000
 
 
 /*const videos = [
@@ -58,7 +58,7 @@ const myVideos ={
 }
  
 const app = express();
-const PORT = 4000;
+
 
 
 app.use(bodyParser.json());
