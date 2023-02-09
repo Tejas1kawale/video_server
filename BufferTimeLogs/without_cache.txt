@@ -1,0 +1,105 @@
+Video_Name               Date                          Buffer_time
+
+sample_10       Tue Jan 31 16:49:08 GMT+05:30 2023      0:0:32
+sample_1       Tue Jan 31 16:49:30 GMT+05:30 2023      0:0:147
+sample_0       Tue Jan 31 16:50:12 GMT+05:30 2023      0:0:71
+sample_1       Tue Jan 31 16:50:19 GMT+05:30 2023      0:0:30
+sample_0       Tue Jan 31 16:50:34 GMT+05:30 2023      0:0:54
+sample_0       Tue Jan 31 16:50:47 GMT+05:30 2023      0:0:56
+sample_3       Tue Jan 31 16:50:56 GMT+05:30 2023      0:0:36
+sample_4       Tue Jan 31 16:51:05 GMT+05:30 2023      0:0:48
+sample_3       Tue Jan 31 16:51:14 GMT+05:30 2023      0:0:126
+sample_4       Tue Jan 31 16:51:21 GMT+05:30 2023      0:0:26
+sample_4       Tue Jan 31 16:51:41 GMT+05:30 2023      0:0:125
+sample_4       Tue Jan 31 16:51:56 GMT+05:30 2023      0:0:54
+sample_3       Tue Jan 31 16:52:07 GMT+05:30 2023      0:0:53
+sample_10       Tue Jan 31 16:55:29 GMT+05:30 2023      0:0:27
+sample_1       Thu Feb 02 11:54:51 GMT+05:30 2023      0:0:69  false
+sample_1       Thu Feb 02 11:55:20 GMT+05:30 2023      0:0:74  false
+sample_10       Thu Feb 02 11:55:27 GMT+05:30 2023      0:0:41  false
+sample_1       Thu Feb 02 11:58:54 GMT+05:30 2023      0:0:82  false
+sample_0       Thu Feb 02 11:59:05 GMT+05:30 2023      0:0:68  false
+sample_1       Thu Feb 02 11:59:08 GMT+05:30 2023      0:0:37  false
+sample_1       Thu Feb 02 11:59:13 GMT+05:30 2023      0:0:70  false
+sample_meme       Thu Feb 02 12:04:35 GMT+05:30 2023      0:0:72  false
+sample_meme       Thu Feb 02 12:06:06 GMT+05:30 2023      0:0:180  false
+sample_meme       Thu Feb 02 12:09:10 GMT+05:30 2023      0:0:187  false
+sample_meme       Thu Feb 02 12:10:17 GMT+05:30 2023      0:0:179  false
+sample_9       Thu Feb 02 12:10:33 GMT+05:30 2023      0:0:108  false
+sample_8       Thu Feb 02 12:10:48 GMT+05:30 2023      0:0:49  false
+sample_8       Thu Feb 02 12:11:12 GMT+05:30 2023      0:0:79  false
+sample_1       Thu Feb 02 12:13:32 GMT+05:30 2023      0:0:185  true
+sample_1       Thu Feb 02 12:14:18 GMT+05:30 2023      0:0:71  true
+sample_1       Thu Feb 02 12:17:20 GMT+05:30 2023      0:0:133  true
+sample_10       Thu Feb 02 12:18:43 GMT+05:30 2023      0:0:137  true
+sample_1       Thu Feb 02 12:27:20 GMT+05:30 2023      0:0:70  false
+sample_10       Thu Feb 02 12:28:43 GMT+05:30 2023      0:0:90  false
+sample_1       Thu Feb 02 12:29:07 GMT+05:30 2023      0:0:135  true
+sample_2       Thu Feb 02 12:29:27 GMT+05:30 2023      0:0:46  false
+sample_1       Thu Feb 02 12:29:49 GMT+05:30 2023      0:0:84  true
+sample_4       Thu Feb 02 12:30:50 GMT+05:30 2023      0:0:51  false
+sample_5       Thu Feb 02 12:31:01 GMT+05:30 2023      0:0:151  false
+sample_4       Thu Feb 02 12:31:14 GMT+05:30 2023      0:0:84  true
+sample_5       Thu Feb 02 12:31:28 GMT+05:30 2023      0:0:46  true
+sample_7       Thu Feb 02 12:31:33 GMT+05:30 2023      0:0:39  false
+sample_1       Fri Feb 03 10:08:59 GMT+05:30 2023      0:0:77  false
+sample_1       Fri Feb 03 10:09:25 GMT+05:30 2023      0:0:62  true
+sample_1       Fri Feb 03 10:09:39 GMT+05:30 2023      0:0:55  true
+sample_1       Fri Feb 03 10:09:49 GMT+05:30 2023      0:0:71  true
+sample_2       Fri Feb 03 10:10:02 GMT+05:30 2023      0:0:118  false
+sample_2       Fri Feb 03 10:10:17 GMT+05:30 2023      0:0:56  true
+sample_2       Fri Feb 03 10:10:36 GMT+05:30 2023      0:0:144  true
+sample_10       Fri Feb 03 10:51:35 GMT+05:30 2023      0:0:68  false
+sample_5       Fri Feb 03 10:52:20 GMT+05:30 2023      0:0:27  false
+sample_8       Fri Feb 03 10:52:26 GMT+05:30 2023      0:0:94  false
+sample_9       Fri Feb 03 10:52:36 GMT+05:30 2023      0:0:101  false
+sample_10       Fri Feb 03 10:52:48 GMT+05:30 2023      0:0:143  true
+sample_3       Fri Feb 03 10:52:52 GMT+05:30 2023      0:0:91  false
+sample_6       Fri Feb 03 10:53:14 GMT+05:30 2023      0:0:94  false
+sample_1       Fri Feb 03 11:11:46 GMT+05:30 2023      0:0:103  false
+sample_0       Fri Feb 03 11:26:57 GMT+05:30 2023      0:0:104  false
+sample_1       Fri Feb 03 11:27:04 GMT+05:30 2023      0:0:100  false
+sample_10       Fri Feb 03 11:27:08 GMT+05:30 2023      0:0:96  false
+sample_2       Fri Feb 03 11:27:12 GMT+05:30 2023      0:0:37  false
+sample_0       Fri Feb 03 11:27:20 GMT+05:30 2023      0:0:184  true
+sample_10       Fri Feb 03 11:27:31 GMT+05:30 2023      0:0:101  true
+sample_1       Fri Feb 03 11:28:03 GMT+05:30 2023      0:0:110  true
+sample_2       Fri Feb 03 11:28:32 GMT+05:30 2023      0:0:111  true
+sample_2       Fri Feb 03 11:28:50 GMT+05:30 2023      0:0:112  true
+sample_10       Fri Feb 03 11:29:08 GMT+05:30 2023      0:0:104  true
+sample_2       Fri Feb 03 11:29:11 GMT+05:30 2023      0:0:110  true
+sample_6       Fri Feb 03 11:29:29 GMT+05:30 2023      0:0:91  false
+sample_1       Fri Feb 03 11:30:19 GMT+05:30 2023      0:0:75  true
+sample_10       Fri Feb 03 11:30:21 GMT+05:30 2023      0:0:39  true
+sample_1       Fri Feb 03 11:30:52 GMT+05:30 2023      0:0:62  true
+sample_2       Fri Feb 03 11:31:12 GMT+05:30 2023      0:0:61  true
+sample_9       Fri Feb 03 11:31:35 GMT+05:30 2023      0:0:137  false
+sample_9       Fri Feb 03 11:31:47 GMT+05:30 2023      0:0:148  true
+sample_8       Fri Feb 03 11:31:54 GMT+05:30 2023      0:0:131  false
+sample_10       Fri Feb 03 11:49:55 GMT+05:30 2023      0:0:210  true
+Tom & Jerry       Fri Feb 03 11:57:37 GMT+05:30 2023      0:0:331  false
+Tom & Jerry       Fri Feb 03 12:16:41 GMT+05:30 2023      0:0:612  true
+Tom & Jerry       Fri Feb 03 12:17:27 GMT+05:30 2023      0:0:630  false
+sample_1       Fri Feb 03 12:17:50 GMT+05:30 2023      0:0:68  true
+sample_1       Fri Feb 03 12:17:54 GMT+05:30 2023      0:0:107  true
+Tom & Jerry       Fri Feb 03 12:18:31 GMT+05:30 2023      0:0:717  true
+Tom & Jerry       Fri Feb 03 12:22:56 GMT+05:30 2023      0:0:163  false
+Tom & Jerry       Fri Feb 03 12:25:36 GMT+05:30 2023      0:0:112  true
+Tom & Jerry       Fri Feb 03 12:26:37 GMT+05:30 2023      0:0:133  false
+sample_1       Thu Feb 09 17:23:15 GMT+05:30 2023      0:0:68  true
+sample_10       Thu Feb 09 17:24:35 GMT+05:30 2023      0:0:139  true
+sample_1       Thu Feb 09 17:25:30 GMT+05:30 2023      0:0:101  false
+sample_10       Thu Feb 09 17:25:38 GMT+05:30 2023      0:0:29  false
+sample_2       Thu Feb 09 17:25:42 GMT+05:30 2023      0:0:99  false
+sample_1       Thu Feb 09 17:25:56 GMT+05:30 2023      0:0:55  true
+sample_10       Thu Feb 09 17:26:03 GMT+05:30 2023      0:0:39  true
+sample_2       Thu Feb 09 17:26:15 GMT+05:30 2023      0:0:30  true
+sample_0       Thu Feb 09 17:27:31 GMT+05:30 2023      0:0:134  false
+sample_1       Thu Feb 09 17:27:59 GMT+05:30 2023      0:0:33  false
+sample_10       Thu Feb 09 17:28:04 GMT+05:30 2023      0:0:89  false
+sample_2       Thu Feb 09 17:28:07 GMT+05:30 2023      0:0:86  false
+sample_0       Thu Feb 09 17:28:21 GMT+05:30 2023      0:0:124  true
+sample_1       Thu Feb 09 17:28:25 GMT+05:30 2023      0:0:100  true
+sample_10       Thu Feb 09 17:28:31 GMT+05:30 2023      0:0:31  true
+sample_2       Thu Feb 09 17:31:11 GMT+05:30 2023      0:0:93  true
+sample_3       Thu Feb 09 17:31:17 GMT+05:30 2023      0:0:29  false
